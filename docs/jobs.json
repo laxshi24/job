@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T15:52:08Z",
+ "generatedAt": "2026-09-15T08:36:25Z",
  "threshold": 6,
  "count": 12,
  "jobs": [
@@ -10,7 +10,7 @@
    "location": "Kottawa",
    "category": "IT-Software/DB/QA/Web/Graphics/GIS",
    "jobType": "",
-   "posted": "2026-09-14 00:00:00",
+   "posted": "2026-09-15 00:00:00",
    "score": 33,
    "matched": [
     "junior",
@@ -28,7 +28,7 @@
    "location": "All island",
    "category": "IT-Software/DB/QA/Web/Graphics/GIS",
    "jobType": "",
-   "posted": "2026-09-14 00:00:00",
+   "posted": "2026-09-15 00:00:00",
    "score": 24,
    "matched": [
     "full stack",
@@ -45,7 +45,7 @@
    "location": "All island",
    "category": "IT-Software/DB/QA/Web/Graphics/GIS",
    "jobType": "",
-   "posted": "2026-09-14 00:00:00",
+   "posted": "2026-09-15 00:00:00",
    "score": 15,
    "matched": [
     "react"
