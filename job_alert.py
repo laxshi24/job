@@ -88,6 +88,25 @@ KEYWORDS = {
     "mysql": 2,
     "rest api": 2,
     "restful": 2,
+    "tailwind": 2,
+    "redux": 2,
+    "figma": 2,
+    "ui/ux": 2,
+    # java / .net
+    "spring boot": 3,
+    "java": 2,
+    ".net": 2,
+    "asp.net": 2,
+    # qa / testing
+    "qa engineer": 4,
+    "quality assurance": 4,
+    "software tester": 4,
+    "cypress": 4,
+    "selenium": 3,
+    "postman": 3,
+    "manual testing": 3,
+    "test automation": 3,
+    "api testing": 3,
     # python / ml
     "python": 4,
     "fastapi": 3,
@@ -98,6 +117,10 @@ KEYWORDS = {
     "pytorch": 2,
     "pandas": 2,
     "llm": 2,
+    "computer vision": 3,
+    "xgboost": 2,
+    "deep learning": 2,
+    "data science": 2,
     # mobile
     "flutter": 3,
     "react native": 3,
@@ -135,7 +158,7 @@ TITLE_BLOCKLIST = [
 # 21 = Software Engineering, 41 = Mobile Development, 43 = Web Development,
 # 42 = AI and Data, 39 = Quality Assurance, 38 = DevOps and Cloud,
 # 37 = IT and Operations (cybersecurity, infra, ops)
-ALLOWED_CATEGORIES = {"21", "41", "43", "42", "38", "37"}
+ALLOWED_CATEGORIES = {"21", "41", "43", "42", "39", "38", "37"}
 
 # Only notify when the score reaches this. Lower it if you get too few alerts,
 # raise it if you get too many.
