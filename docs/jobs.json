@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-20T08:30:54Z",
+ "generatedAt": "2026-09-20T12:22:28Z",
  "threshold": 6,
- "count": 11,
+ "count": 12,
  "jobs": [
   {
    "id": "tj-0001545702",
@@ -147,6 +147,22 @@
    ],
    "blurb": "",
    "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001548692&ec=0000000510",
+   "source": "topjobs.lk"
+  },
+  {
+   "id": "tj-0001545623",
+   "title": "Quality Assurance Engineers",
+   "company": "Prima Management Services (Pvt) Ltd",
+   "location": "Rajagiriya",
+   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
+   "jobType": "",
+   "posted": "2026-09-20 00:00:00",
+   "score": 12,
+   "matched": [
+    "quality assurance"
+   ],
+   "blurb": "",
+   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545623&ec=DEFZZZ",
    "source": "topjobs.lk"
   },
   {
