@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-29T16:29:00Z",
+ "generatedAt": "2026-09-30T09:36:18Z",
  "threshold": 6,
- "count": 10,
+ "count": 12,
  "jobs": [
   {
    "id": "tj-0001551862",
@@ -36,6 +36,23 @@
    ],
    "blurb": "",
    "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001551355&ec=DEFZZZ",
+   "source": "topjobs.lk"
+  },
+  {
+   "id": "tj-0001553982",
+   "title": "Associate Business Analyst & Quality Assurance",
+   "company": "Legacy Health (Pvt) Ltd",
+   "location": "Colombo 3",
+   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
+   "jobType": "",
+   "posted": "2026-09-29 00:00:00",
+   "score": 24,
+   "matched": [
+    "associate",
+    "quality assurance"
+   ],
+   "blurb": "",
+   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001553982&ec=DEFZZZ",
    "source": "topjobs.lk"
   },
   {
@@ -164,6 +181,22 @@
    ],
    "blurb": "",
    "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001553535&ec=DEFZZZ",
+   "source": "topjobs.lk"
+  },
+  {
+   "id": "tj-0001554144",
+   "title": "Junior Software Engineer",
+   "company": "ESOFT Technologies Pvt Ltd",
+   "location": "Colombo",
+   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
+   "jobType": "",
+   "posted": "2026-09-30 00:00:00",
+   "score": 9,
+   "matched": [
+    "junior"
+   ],
+   "blurb": "",
+   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001554144&ec=DEFZZZ",
    "source": "topjobs.lk"
   }
  ]
