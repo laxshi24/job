@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-30T09:36:18Z",
+ "generatedAt": "2026-09-30T16:05:54Z",
  "threshold": 6,
- "count": 12,
+ "count": 15,
  "jobs": [
   {
    "id": "tj-0001551862",
@@ -56,6 +56,22 @@
    "source": "topjobs.lk"
   },
   {
+   "id": "tj-0001554308",
+   "title": "Software Engineering Executive - Full Stack (on Contract)",
+   "company": "Central Bank of Sri Lanka",
+   "location": "Colombo 1",
+   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
+   "jobType": "",
+   "posted": "2026-09-30 00:00:00",
+   "score": 15,
+   "matched": [
+    "full stack"
+   ],
+   "blurb": "",
+   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001554308&ec=DEFZZZ",
+   "source": "topjobs.lk"
+  },
+  {
    "id": "tj-0001551661",
    "title": "Software Quality Assurance Engineer (1)",
    "company": "DirectFN",
@@ -101,6 +117,38 @@
    ],
    "blurb": "",
    "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001553451&ec=DEFZZZ",
+   "source": "topjobs.lk"
+  },
+  {
+   "id": "tj-0001554311",
+   "title": "Software Quality Assurance Executive (On Contract)",
+   "company": "Central Bank of Sri Lanka",
+   "location": "Colombo 1",
+   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
+   "jobType": "",
+   "posted": "2026-09-30 00:00:00",
+   "score": 12,
+   "matched": [
+    "quality assurance"
+   ],
+   "blurb": "",
+   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001554311&ec=DEFZZZ",
+   "source": "topjobs.lk"
+  },
+  {
+   "id": "tj-0001551628",
+   "title": "Quality Assurance Officer",
+   "company": "AccSoft Solutions (Pvt) Ltd",
+   "location": "Colombo 6",
+   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
+   "jobType": "",
+   "posted": "2026-09-30 00:00:00",
+   "score": 12,
+   "matched": [
+    "quality assurance"
+   ],
+   "blurb": "",
+   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001551628&ec=DEFZZZ",
    "source": "topjobs.lk"
   },
   {
