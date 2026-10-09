@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-08T17:35:16Z",
+ "generatedAt": "2026-10-09T10:26:21Z",
  "threshold": 6,
- "count": 18,
+ "count": 17,
  "jobs": [
   {
    "id": "tj-0001553982",
@@ -196,22 +196,6 @@
    ],
    "blurb": "",
    "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001543913&ec=0000000313",
-   "source": "topjobs.lk"
-  },
-  {
-   "id": "tj-0001552044",
-   "title": "Junior Executive - IT Systems",
-   "company": "A. Baur & Co. (Pvt.) Ltd",
-   "location": "Colombo 1",
-   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
-   "jobType": "",
-   "posted": "2026-09-24 00:00:00",
-   "score": 9,
-   "matched": [
-    "junior"
-   ],
-   "blurb": "",
-   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001552044&ec=DEFZZZ",
    "source": "topjobs.lk"
   },
   {
