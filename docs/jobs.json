@@ -1,25 +1,8 @@
 {
- "generatedAt": "2026-10-13T17:47:10Z",
+ "generatedAt": "2026-10-14T08:36:48Z",
  "threshold": 6,
- "count": 16,
+ "count": 17,
  "jobs": [
-  {
-   "id": "tj-0001553982",
-   "title": "Associate Business Analyst & Quality Assurance",
-   "company": "Legacy Health (Pvt) Ltd",
-   "location": "Colombo 3",
-   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
-   "jobType": "",
-   "posted": "2026-09-29 00:00:00",
-   "score": 24,
-   "matched": [
-    "associate",
-    "quality assurance"
-   ],
-   "blurb": "",
-   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001553982&ec=DEFZZZ",
-   "source": "topjobs.lk"
-  },
   {
    "id": "tj-0001557051",
    "title": ". Intern Full Stack Engineer (.NET & Angular)",
@@ -180,6 +163,38 @@
    ],
    "blurb": "",
    "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558726&ec=DEFZZZ",
+   "source": "topjobs.lk"
+  },
+  {
+   "id": "tj-0001559644",
+   "title": "QA Engineer",
+   "company": "Ceylon Institute of Softwarw Enginnering and Law",
+   "location": "Colombo 3",
+   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
+   "jobType": "",
+   "posted": "2026-10-14 00:00:00",
+   "score": 12,
+   "matched": [
+    "qa engineer"
+   ],
+   "blurb": "",
+   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559644&ec=DEFZZZ",
+   "source": "topjobs.lk"
+  },
+  {
+   "id": "tj-0001559624",
+   "title": "QA Engineer",
+   "company": "Levein",
+   "location": "Colombo 5",
+   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
+   "jobType": "",
+   "posted": "2026-10-14 00:00:00",
+   "score": 12,
+   "matched": [
+    "qa engineer"
+   ],
+   "blurb": "",
+   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559624&ec=DEFZZZ",
    "source": "topjobs.lk"
   },
   {
