@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-18T16:08:10Z",
+ "generatedAt": "2026-10-19T08:46:00Z",
  "threshold": 6,
- "count": 17,
+ "count": 18,
  "jobs": [
   {
    "id": "tj-0001561012",
@@ -102,6 +102,23 @@
    ],
    "blurb": "",
    "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560546&ec=DEFZZZ",
+   "source": "topjobs.lk"
+  },
+  {
+   "id": "tj-0001561054",
+   "title": "Java Spring Boot Software Developer",
+   "company": "Kangaro Tech",
+   "location": "Colombo, Galle, Kandy, Kurunegala",
+   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
+   "jobType": "",
+   "posted": "2026-10-19 00:00:00",
+   "score": 15,
+   "matched": [
+    "java",
+    "spring boot"
+   ],
+   "blurb": "",
+   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561054&ec=DEFZZZ",
    "source": "topjobs.lk"
   },
   {
