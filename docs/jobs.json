@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-19T16:33:59Z",
+ "generatedAt": "2026-10-20T08:25:55Z",
  "threshold": 6,
- "count": 19,
+ "count": 20,
  "jobs": [
   {
    "id": "tj-0001561012",
@@ -36,6 +36,23 @@
    ],
    "blurb": "",
    "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559916&ec=DEFZZZ",
+   "source": "topjobs.lk"
+  },
+  {
+   "id": "tj-0001561563",
+   "title": "Experienced React Native Mobile App Developer",
+   "company": "Nascent Grow (Pvt) Ltd",
+   "location": "Kottawa",
+   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
+   "jobType": "",
+   "posted": "2026-10-20 00:00:00",
+   "score": 24,
+   "matched": [
+    "react",
+    "react native"
+   ],
+   "blurb": "",
+   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561563&ec=DEFZZZ",
    "source": "topjobs.lk"
   },
   {
