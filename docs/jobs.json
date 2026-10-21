@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-20T18:26:37Z",
+ "generatedAt": "2026-10-21T08:29:47Z",
  "threshold": 6,
- "count": 20,
+ "count": 19,
  "jobs": [
   {
    "id": "tj-0001561012",
@@ -45,7 +45,7 @@
    "location": "Kottawa",
    "category": "IT-Software/DB/QA/Web/Graphics/GIS",
    "jobType": "",
-   "posted": "2026-10-20 00:00:00",
+   "posted": "2026-10-21 00:00:00",
    "score": 24,
    "matched": [
     "react",
@@ -136,22 +136,6 @@
    ],
    "blurb": "",
    "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561054&ec=DEFZZZ",
-   "source": "topjobs.lk"
-  },
-  {
-   "id": "tj-0001556178",
-   "title": "Associate Data Analyst",
-   "company": "Sri Lanka Telecom (Services) Ltd",
-   "location": "Colombo 1",
-   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
-   "jobType": "",
-   "posted": "2026-10-06 00:00:00",
-   "score": 12,
-   "matched": [
-    "associate"
-   ],
-   "blurb": "",
-   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556178&ec=DEFZZZ",
    "source": "topjobs.lk"
   },
   {
@@ -251,35 +235,35 @@
    "source": "topjobs.lk"
   },
   {
+   "id": "tj-0001562073",
+   "title": "Associate Engineer | Service Technician - IT",
+   "company": "ITES",
+   "location": "Colombo 3",
+   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
+   "jobType": "",
+   "posted": "2026-10-21 00:00:00",
+   "score": 12,
+   "matched": [
+    "associate"
+   ],
+   "blurb": "",
+   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001562073&ec=DEFZZZ",
+   "source": "topjobs.lk"
+  },
+  {
    "id": "tj-0001561356",
    "title": "Associate Data Analyst - Data Compliance",
    "company": "Affixcon Pty Ltd",
    "location": "Colombo 1",
    "category": "IT-Software/DB/QA/Web/Graphics/GIS",
    "jobType": "",
-   "posted": "2026-10-19 00:00:00",
+   "posted": "2026-10-21 00:00:00",
    "score": 12,
    "matched": [
     "associate"
    ],
    "blurb": "",
    "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561356&ec=DEFZZZ",
-   "source": "topjobs.lk"
-  },
-  {
-   "id": "tj-0001556393",
-   "title": "Junior ERP Developer",
-   "company": "Ahmad Tea Limited",
-   "location": "Colombo",
-   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
-   "jobType": "",
-   "posted": "2026-10-06 00:00:00",
-   "score": 9,
-   "matched": [
-    "junior"
-   ],
-   "blurb": "",
-   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556393&ec=DEFZZZ",
    "source": "topjobs.lk"
   },
   {
