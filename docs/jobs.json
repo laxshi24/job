@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T19:31:55Z",
+ "generatedAt": "2026-11-01T10:22:08Z",
  "threshold": 6,
  "count": 11,
  "jobs": [
@@ -10,7 +10,7 @@
    "location": "Kottawa",
    "category": "IT-Software/DB/QA/Web/Graphics/GIS",
    "jobType": "",
-   "posted": "2026-10-31 00:00:00",
+   "posted": "2026-11-01 00:00:00",
    "score": 24,
    "matched": [
     "react",
@@ -125,7 +125,7 @@
    "location": "Colombo 1",
    "category": "IT-Software/DB/QA/Web/Graphics/GIS",
    "jobType": "",
-   "posted": "2026-10-31 00:00:00",
+   "posted": "2026-11-01 00:00:00",
    "score": 12,
    "matched": [
     "associate"
@@ -173,7 +173,7 @@
    "location": "Colombo 3",
    "category": "IT-Software/DB/QA/Web/Graphics/GIS",
    "jobType": "",
-   "posted": "2026-10-31 00:00:00",
+   "posted": "2026-11-01 00:00:00",
    "score": 9,
    "matched": [
     "junior"
