@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-04T10:46:56Z",
+ "generatedAt": "2026-11-04T18:36:01Z",
  "threshold": 6,
- "count": 13,
+ "count": 12,
  "jobs": [
   {
    "id": "tj-0001566670",
@@ -55,22 +55,6 @@
    ],
    "blurb": "",
    "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=0000000494&jc=0001563744&ec=0000000666",
-   "source": "topjobs.lk"
-  },
-  {
-   "id": "tj-0001562073",
-   "title": "Associate Engineer | Service Technician - IT",
-   "company": "ITES",
-   "location": "Colombo 3",
-   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
-   "jobType": "",
-   "posted": "2026-10-21 00:00:00",
-   "score": 12,
-   "matched": [
-    "associate"
-   ],
-   "blurb": "",
-   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001562073&ec=DEFZZZ",
    "source": "topjobs.lk"
   },
   {
