@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-18T19:33:39Z",
+ "generatedAt": "2026-11-19T11:29:57Z",
  "threshold": 6,
- "count": 9,
+ "count": 12,
  "jobs": [
   {
    "id": "tj-0001569235",
@@ -104,13 +104,45 @@
    "source": "topjobs.lk"
   },
   {
+   "id": "tj-0001573302",
+   "title": "Associate Project Coordinator - Agile (Software Development)",
+   "company": "Company Name Withheld",
+   "location": "Colombo",
+   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
+   "jobType": "",
+   "posted": "2026-11-19 00:00:00",
+   "score": 12,
+   "matched": [
+    "associate"
+   ],
+   "blurb": "",
+   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573302&ec=DEFZZZ",
+   "source": "topjobs.lk"
+  },
+  {
+   "id": "tj-0001573301",
+   "title": "Associate Software Engineer - AI | BI",
+   "company": "Company Name Withheld",
+   "location": "Colombo",
+   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
+   "jobType": "",
+   "posted": "2026-11-19 00:00:00",
+   "score": 12,
+   "matched": [
+    "associate"
+   ],
+   "blurb": "",
+   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573301&ec=DEFZZZ",
+   "source": "topjobs.lk"
+  },
+  {
    "id": "tj-0001571805",
    "title": "QA Engineer",
    "company": "InEight Sri Lanka",
    "location": "Colombo 3",
    "category": "IT-Software/DB/QA/Web/Graphics/GIS",
    "jobType": "",
-   "posted": "2026-11-18 00:00:00",
+   "posted": "2026-11-19 00:00:00",
    "score": 12,
    "matched": [
     "qa engineer"
@@ -149,6 +181,22 @@
    ],
    "blurb": "",
    "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572592&ec=DEFZZZ",
+   "source": "topjobs.lk"
+  },
+  {
+   "id": "tj-0001573209",
+   "title": "Java Engineer (VA Fixing)",
+   "company": "ORYSYS Limited",
+   "location": "Colombo 3",
+   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
+   "jobType": "",
+   "posted": "2026-11-19 00:00:00",
+   "score": 6,
+   "matched": [
+    "java"
+   ],
+   "blurb": "",
+   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573209&ec=DEFZZZ",
    "source": "topjobs.lk"
   }
  ]
