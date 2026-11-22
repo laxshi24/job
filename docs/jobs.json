@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T17:56:41Z",
+ "generatedAt": "2026-11-22T11:10:38Z",
  "threshold": 6,
  "count": 14,
  "jobs": [
@@ -175,7 +175,7 @@
    "location": "Colombo 3",
    "category": "IT-Software/DB/QA/Web/Graphics/GIS",
    "jobType": "",
-   "posted": "2026-11-21 00:00:00",
+   "posted": "2026-11-22 00:00:00",
    "score": 12,
    "matched": [
     "qa engineer"
@@ -223,7 +223,7 @@
    "location": "Colombo 3",
    "category": "IT-Software/DB/QA/Web/Graphics/GIS",
    "jobType": "",
-   "posted": "2026-11-21 00:00:00",
+   "posted": "2026-11-22 00:00:00",
    "score": 6,
    "matched": [
     "java"
