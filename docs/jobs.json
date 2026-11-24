@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-24T00:19:27Z",
+ "generatedAt": "2026-11-24T13:33:52Z",
  "threshold": 6,
- "count": 12,
+ "count": 11,
  "jobs": [
   {
    "id": "tj-0001573771",
@@ -141,7 +141,7 @@
    "location": "Colombo 3",
    "category": "IT-Software/DB/QA/Web/Graphics/GIS",
    "jobType": "",
-   "posted": "2026-11-23 00:00:00",
+   "posted": "2026-11-24 00:00:00",
    "score": 12,
    "matched": [
     "qa engineer"
@@ -180,22 +180,6 @@
    ],
    "blurb": "",
    "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572592&ec=DEFZZZ",
-   "source": "topjobs.lk"
-  },
-  {
-   "id": "tj-0001573209",
-   "title": "Java Engineer (VA Fixing)",
-   "company": "ORYSYS Limited",
-   "location": "Colombo 3",
-   "category": "IT-Software/DB/QA/Web/Graphics/GIS",
-   "jobType": "",
-   "posted": "2026-11-23 00:00:00",
-   "score": 6,
-   "matched": [
-    "java"
-   ],
-   "blurb": "",
-   "url": "https://topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573209&ec=DEFZZZ",
    "source": "topjobs.lk"
   }
  ]
